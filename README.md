@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mashrick
-- 👀 I’m interested in Web Designing & Developing.
-- 🌱 I’m currently learning PHP.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Design & Development.
+- 🌱 I’m currently learning Laravel.
+- 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me mashu.haque@gmail.com
 
 <!---
